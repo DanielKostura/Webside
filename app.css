@@ -50,14 +50,14 @@ nav > div > a {
   height: 1.5rem;
 }
 nav > div > .activated {
-  color: rgba(172, 110, 226, 0.767);
+  color: rgba(30, 192, 30, 0.767);
 }
 nav > div > .activated:hover {
-  color: rgba(172, 110, 226, 0.767);
+  color: rgba(30, 192, 30, 0.767);
   transform: scale(1);
 }
 nav > div > a:hover {
-  color: rgba(172, 110, 226, 0.767);
+  color: rgba(30, 192, 30, 0.767);
   transform: translateY(-0.2rem) scale(1.1);
   transition: 550ms;
 }
